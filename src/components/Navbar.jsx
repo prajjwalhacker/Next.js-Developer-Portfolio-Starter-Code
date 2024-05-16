@@ -25,10 +25,10 @@ export const Navbar = () => {
             <CustomLink href='/about' title='About'/>
         </nav>
         <nav className='flex items-center justify-center flex-wrap'>
-          <motion.a href='/' target='_blank' whileHover={{ y: -2 }} whileTap={{ scale: 0.9}} className='w-6 mr-3'>
+          <motion.a href='https://github.com/prajjwalhacker' target='_blank' whileHover={{ y: -2 }} whileTap={{ scale: 0.9}} className='w-6 mr-3'>
             <GithubIcon/>
           </motion.a>
-          <motion.a href='/' target='_blank' whileHover={{ y: -2 }} whileTap={{ scale: 0.9}} className='w-6 mr-3'>
+          <motion.a href='https://www.linkedin.com/in/prajjwal-soni-5b0741291/' target='_blank' whileHover={{ y: -2 }} whileTap={{ scale: 0.9}} className='w-6 mr-3'>
             <LinkedinIcon/>
           </motion.a>
           <motion.a href='/' target='_blank' whileHover={{ y: -2 }} whileTap={{ scale: 0.9}} className='w-6 mr-3'>
