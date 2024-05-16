@@ -82,7 +82,7 @@ export default function Home() {
 Explore my about section, showcasing my expertise in React.js, nextjs and web development.
             </p>
             <div className='flex items-center self-start mt-2'>
-              <Link href='/' className='flex items-center bg-dark text-light px-6 py-2 rounded-lg text-bg font-semibold hover:bg-light hover:text-dark border border-dark' download={true}>
+              <Link href='https://docs.google.com/document/d/18Y2pCu7ucuoxleHC2REBmwG2BRLuB2HCeCOIPu-xccU/edit?usp=sharing' className='flex items-center bg-dark text-light px-6 py-2 rounded-lg text-bg font-semibold hover:bg-light hover:text-dark border border-dark' download={true}>
                 Resume
               </Link>
               <Link href='mailto:prajjwalsoni123@gmail.com' className='ml-2'>
